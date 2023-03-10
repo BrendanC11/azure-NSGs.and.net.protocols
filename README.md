@@ -32,106 +32,16 @@ This lab aims to aid in our understanding of different types of web protocols an
 
 <h2>Actions and Observations</h2>
 
-  <b>1. Create a Resource Group.</b>
+<b>1. Create a Resource Group.</b>
   
+<p>
 This is where we will store our two virtual machines. Go to “Azure -> resource groups -> create”
 </p>
+
 <br />
 
 <p>
 <img src="https://i.imgur.com/C7TmwAn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-  
-<br />
-
-  <b>1. Create a Resource Group.</b>
-  
-This is where we will store our two virtual machines. Go to “Azure -> resource groups -> create”
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/C7TmwAn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-  
-<br />
-  
-  <b>1. Create a Resource Group.</b>
-  
-This is where we will store our two virtual machines. Go to “Azure -> resource groups -> create”
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/C7TmwAn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-  
-<br />
-  
-  <b>1. Create a Resource Group.</b>
-  
-This is where we will store our two virtual machines. Go to “Azure -> resource groups -> create”
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/C7TmwAn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-  
-<br />
-  
-  <b>1. Create a Resource Group.</b>
-  
-This is where we will store our two virtual machines. Go to “Azure -> resource groups -> create”
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/C7TmwAn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-  
-<br />
-  
-  <b>1. Create a Resource Group.</b>
-  
-This is where we will store our two virtual machines. Go to “Azure -> resource groups -> create”
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/C7TmwAn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-  
-<br />
-  
-  <b>1. Create a Resource Group.</b>
-  
-This is where we will store our two virtual machines. Go to “Azure -> resource groups -> create”
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/C7TmwAn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-  
-<br />
-  
-  <b>1. Create a Resource Group.</b>
-  
-This is where we will store our two virtual machines. Go to “Azure -> resource groups -> create”
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/C7TmwAn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
   
 <br />
