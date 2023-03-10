@@ -32,26 +32,106 @@ This lab aims to aid in our understanding of different types of web protocols an
 
 <h2>Actions and Observations</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  <b>1. Create a Resource Group.</b>
+  
+This is where we will store our two virtual machines. Go to “Azure -> resource groups -> create”
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/C7TmwAn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  
+<br />
+
+  <b>1. Create a Resource Group.</b>
+  
+This is where we will store our two virtual machines. Go to “Azure -> resource groups -> create”
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/C7TmwAn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  
+<br />
+  
+  <b>1. Create a Resource Group.</b>
+  
+This is where we will store our two virtual machines. Go to “Azure -> resource groups -> create”
 </p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/C7TmwAn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+<br />
+  
+  <b>1. Create a Resource Group.</b>
+  
+This is where we will store our two virtual machines. Go to “Azure -> resource groups -> create”
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/C7TmwAn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+<br />
+  
+  <b>1. Create a Resource Group.</b>
+  
+This is where we will store our two virtual machines. Go to “Azure -> resource groups -> create”
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/C7TmwAn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+<br />
+  
+  <b>1. Create a Resource Group.</b>
+  
+This is where we will store our two virtual machines. Go to “Azure -> resource groups -> create”
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/C7TmwAn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+<br />
+  
+  <b>1. Create a Resource Group.</b>
+  
+This is where we will store our two virtual machines. Go to “Azure -> resource groups -> create”
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/C7TmwAn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+<br />
+  
+  <b>1. Create a Resource Group.</b>
+  
+This is where we will store our two virtual machines. Go to “Azure -> resource groups -> create”
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/C7TmwAn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
 <br />
