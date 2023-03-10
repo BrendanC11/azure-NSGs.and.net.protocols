@@ -44,14 +44,60 @@ This is where we will store our two virtual machines. Go to “Azure -> resource
   
 <br />
 
-<b>1. Create a Resource Group.</b>
+<b>2.	Create two Virtual Machines.</b>
   
 <p>
-This is where we will store our two virtual machines. Go to “Azure -> resource groups -> create”
+One should be a windows 10 Virtual Machine, the other should be a Linux virtual machine. When creating these VMs, place them both inside the resource group that we just created. 
+
+The first VM will be called “Windows-VM” and will run “Windows 10 Pro.” Username will be “Labuser” and the password will be “Password1234”
 </p>
 
 <p>
-<img src="https://i.imgur.com/C7TmwAn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uv3viED.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+  
+<br />
+
+<p>
+The second VM will be called “Linux-VM” and will run “Ubuntu Server 20.04 LTS.” Username will be “Labuser” and the password will be “Password1234” The reason we can use the same username and password on both virtual machines is because they are two separate machines, thus having their own unique IP Address when we connect to them.
+</p>
+
+<p>
+<img src="https://i.imgur.com/FyKrVLk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<br />
+
+<p>
+Note: when we crated our first virtual machine, being “Windows-VM” a virtual network was automatically created called “Windows-VM-Net”. With this in mind, when we crate the second virtual machine we must go to the networking page and check that the virtual network that was created is selected. 
+</p>
+
+<p>
+<img src="https://i.imgur.com/vbNeczg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+  
+<br />
+
+<p>
+<b>3.	Remote Desktop into the windows virtual machine.</b>
+  
+Within Azure, navigate to your windows virtual machine and copy Its public IP address. Open Remote Desktop Connection on your PC and paste the IP address of the windows VM. Log in to the VM using the username and password that we crated when initially creating the VM.
+</p>
+
+<p>
+<img src="https://i.imgur.com/E4C7FDQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+  
+<br />
+
+<p>
+<b>4.	Download and install Wireshark. </b>
+  
+Once you are inside your Windows VM, open a web browser and download the Windows 10 64bit Wireshark installer. Install the software from the file in your downloads folder. Once Wireshark is installed, open the program. Once inside Wireshark, select “Ethernet” and then press the blue shark fin button in the top left of Wireshark. 
+</p>
+
+<p>
+<img src="https://i.imgur.com/S4f1Um7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
   
 <br />
