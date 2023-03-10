@@ -101,3 +101,33 @@ Once you are inside your Windows VM, open a web browser and download the Windows
 </p>
   
 <br />
+
+<p>
+We will use Wireshark to observe ICMP, DHCP, and DNS traffic.
+
+We will now filter for ICMP traffic only. To do this, go to the search bar at the top of Wireshark and search for “ICMP” then press enter. This will make it so that Wireshark only shows us ICMP traffic that is happening over the network, as opposed to all traffic.
+</p>
+
+<p>
+<img src="https://i.imgur.com/LDrCUDX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+  
+<br />
+
+<p>
+It is important to remember that ICMP stands for “Internet Control Messaging Protocol” which is the protocol that ping uses. When we begin pinging another machine, we will see the ICMP traffic in Wireshark.
+</p>
+  
+<br />
+
+<p>
+<b>5.	“Ping” to observe ICMP traffic.</b>
+  
+Obtain the private IP address of the linux virtual machine within azure. For this example, the private IP address of the linux virtual machine is “10.0.0.5”.
+</p>
+
+<p>
+<img src="https://i.imgur.com/VM2nyzQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<br />
