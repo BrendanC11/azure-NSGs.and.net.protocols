@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
 </p>
 
-<h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
+<h1>Network Security Groups and Inspecting Traffic Between Azure Virtual Machines</h1>
 This lab aims to aid in our understanding of different types of web protocols and how machines interact with each other over a network. We will observe three different types of traffic in this lab being; ICMP, DHCP, and DNS. <br />
 
 <h2>Environments and Technologies Used</h2>
